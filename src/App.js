@@ -11,7 +11,7 @@ function App() {
   };
   return (
     <>
-      <h1 data-cy="page-name">SANDBOX</h1>
+      <h1>SANDBOX</h1>
       <p>
         State: <b>{counter}</b>
       </p>
